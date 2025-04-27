@@ -1,0 +1,14 @@
+{
+  "name": "traductor-validacion",
+  "version": "1.0.0",
+  "description": "Traductor de esquemas de validación en JavaScript utilizando Ajv.",
+  "main": "traductor.js",
+  "scripts": {
+    "test": "node pruebas/prueba-validacion.js"
+  },
+  "author": "Diego Sierra Carmona",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^8.12.0"
+  }
+}
